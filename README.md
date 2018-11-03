@@ -3,6 +3,6 @@ A multi-functioning API to greet a user and also plays around Spring Asynchronou
 
 ## Swagger Link to explore the endpoints
 
-http://localhost:8080/swagger-ui.html
+http://localhost:<port>/swagger-ui.html
 
 
